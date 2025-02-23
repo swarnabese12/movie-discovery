@@ -1,4 +1,3 @@
-<!-- pages/movie/[id].vue -->
 <template>
   <div class="container mx-auto px-4 py-8 text-white">
     <div v-if="loading" class="text-center">

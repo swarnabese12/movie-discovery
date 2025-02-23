@@ -8,7 +8,6 @@
 
       <div class="absolute inset-0 bg-black bg-opacity-60"></div>
 
-      <!-- <Icon name="mdi:castle" class="w-6 h-6 text-blue-500 drop-shadow-lg" /> -->
       <div
         class="absolute top-4 left-6 flex justify-center items-center bg-[#1b2431] ml-4 mt-2"
       >
@@ -116,7 +115,6 @@
           <Icon name="mdi:video-vintage" class="w-6 h-6 text-pink-400" />
           <Icon name="mdi:projector" class="w-6 h-6 text-cyan-400" />
         </div> -->
-        <!-- Search Bar -->
         <input
           v-model="searchTerm"
           placeholder="Search for a movie..."
